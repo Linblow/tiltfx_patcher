@@ -5,7 +5,11 @@ It takes the form of a signed updater EBOOT (ie. `PSP/GAME/UPDATE/EBOOT.PBP`).
 
 This simple tool will patch the TiltFX EBOOT executable to make it license-free.  
 TiltFX can then be used on any device without a license (nor the license files).  
-See below for the original (and deprecated) licensing process. 
+See below for the original (and deprecated) licensing process.
+
+# Downloads
+- [Get the already patched TiltFX PSP app here][2]
+- [Get the original TiltFX PSP app here][3] or also [in this repo](data/TiltFX)
 
 # Requirements
 
@@ -58,10 +62,6 @@ See the `checkLicense()` function at address `0000d79c` in the executable:
 The patch makes it always set the global variable to true.
 
 See this [gist for the `id.txt` generation algorithm][4].
-
-# Downloads
-- [Get the already patched TiltFX PSP app here][2]
-- [Get the original TiltFX PSP app here][3] or also [in this repo](data/TiltFX)
 
 # Credits
 XSpalter for providing the original TiltFX PSP binary  
