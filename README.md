@@ -33,7 +33,7 @@ Then generate the patched `EBOOT.PBP` file from the original application file.
 1. Rename the generated file to `EBOOT.PBP` if it's not the case
 2. Copy it to your MemoryStick inside the `PSP/GAME/UPDATE/` directory (overwrite any existing file)
 3. TiltFX now appears in the games section
-<div style="text-align: left;"><img width="144" height="144" src="assets/icon0.png" alt="TiltFX ICON"></div>
+<div style="text-align: left;"><img width="144" height="80" src="assets/icon0.png" alt="TiltFX ICON"></div>
 
 ## Licensing process
 Technical details for the curious folks.
