@@ -64,7 +64,7 @@ The patch makes it always set the global variable to true.
 See this [gist for the `id.txt` generation algorithm][4].
 
 # Credits
-XSpalter for providing the original TiltFX PSP binary  
+XSpalter for providing the [original TiltFX PSP binary](data/TiltFX/EBOOT.PBP.ori) (`EBOOT.PBP`)  
 Davee for his `psptools` taken from [Infinity][5]  
 Linblow for this patcher
 
